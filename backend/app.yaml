@@ -1,0 +1,8 @@
+runtime: nodejs20
+env: standard
+
+env_variables:
+  ARTSY_CLIENT_ID : 2efe1a4b1f6ab7de4aa5
+  ARTSY_CLIENT_SECRET : 4ed42c069dba4e6f3f96bb546302e616
+  MONGO_URI : mongodb://hvuppala:test1234@ac-sna35sc-shard-00-00.bnj0iua.mongodb.net:27017,ac-sna35sc-shard-00-01.bnj0iua.mongodb.net:27017,ac-sna35sc-shard-00-02.bnj0iua.mongodb.net:27017/?replicaSet=atlas-watblw-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=ArtsyCluster
+  JWT_SECRET : supersecret123

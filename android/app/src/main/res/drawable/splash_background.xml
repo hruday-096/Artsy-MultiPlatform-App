@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" />
+    <item>
+        <inset
+            android:drawable="@drawable/artsy_logo"
+            android:insetLeft="64dp"
+            android:insetTop="64dp"
+            android:insetRight="64dp"
+            android:insetBottom="64dp" />
+    </item>
+</layer-list>

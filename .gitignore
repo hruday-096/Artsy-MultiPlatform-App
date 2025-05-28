@@ -1,0 +1,75 @@
+# ─────────────────────────────
+# General (OS + Editor)
+# ─────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.local
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ─────────────────────────────
+# Frontend (React + Vite)
+# ─────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.*.local
+frontend/.DS_Store
+frontend/*.tsbuildinfo
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/coverage/
+
+# Optional - only ignore these if you're not tracking them
+frontend/Dockerfile
+frontend/nginx.conf
+
+# ─────────────────────────────
+# Backend (Node.js + Express)
+# ─────────────────────────────
+backend/node_modules/
+backend/.env
+backend/.DS_Store
+backend/*.log
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/coverage/
+
+# ─────────────────────────────
+# Android App (Jetpack Compose)
+# ─────────────────────────────
+app/.gradle/
+app/.idea/
+app/build/
+app/.cxx/
+app/local.properties
+app/*.iml
+app/captures/
+app/.DS_Store
+app/.externalNativeBuild/
+app/.android/
+app/.signing/
+app/.gradle/
+app/.settings/
+app/*.keystore
+app/.apk
+
+# ─────────────────────────────
+# Global Optional Files
+# ─────────────────────────────
+*.apk
+*.keystore
+*.jks
+*.mp4
+*.avi
+*.mkv
