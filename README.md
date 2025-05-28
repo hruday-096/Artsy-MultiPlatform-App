@@ -9,7 +9,7 @@ The application integrates seamlessly with the [Artsy API](https://developers.ar
 ## Live Deployments
 
 - **Web App**: [Visit Website](https://react-frontend-1087721607794.us-central1.run.app)
-- **Android App**: [Watch Demo Video](demo.mov)
+- **Android App**: [Watch Demo Video]([demo.mov](https://streamable.com/imzr8i))
 
 ---
 
