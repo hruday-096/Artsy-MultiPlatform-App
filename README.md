@@ -1,6 +1,4 @@
 # Artsy — Multi-Platform Artist Discovery App
----
-
 ## Live Deployments
 
 - **Web App**: [Visit Website](https://react-frontend-1087721607794.us-central1.run.app)
