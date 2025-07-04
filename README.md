@@ -1,9 +1,4 @@
 # Artsy — Multi-Platform Artist Discovery App
-
-**Artsy** is a full-stack, multi-platform application designed to help users discover artists, explore their artworks and biographies, and save their favorites—all through an elegant and responsive user experience. Built with a shared **Node.js + Express** backend, it powers both a **React web app** and a native **Jetpack Compose Android app**, maintaining consistent data flow and user state across platforms.
-
-The application integrates seamlessly with the [Artsy API](https://developers.artsy.net/v2/) to retrieve rich artist data and media, while leveraging **MongoDB Atlas** for persistent user data and favorites.
-
 ---
 
 ## Live Deployments
